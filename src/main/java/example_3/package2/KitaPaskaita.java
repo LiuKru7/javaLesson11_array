@@ -8,6 +8,6 @@ public class KitaPaskaita {
         System.out.println(liudvikas.name);
 //        System.out.println(liudvikas.nickname); default negalima pasiekti kitame package
 //        System.out.println(liudvikas.pinCode) ; Private can not be accessed
-
     }
+
 }
