@@ -1,4 +1,4 @@
-package example_4;
+package example_4.variant_1;
 
 public class DigitalGradeAppTester {
     public static void main(String[] args) {
